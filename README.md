@@ -10,11 +10,11 @@ The class repository contains course materials, assignments, shared activities, 
 
 ## Project
 
-**Student:**
-**Project Title:**
-**Current Project Description:**
-**MTEC 3501 Semester:**
-**Instructor:**
+**Student: Floren Etienne**
+**Project Title: Pushing Buttons**
+**Current Project Description: A console that runs a simple program**
+**MTEC 3501 Semester: Fall 2026**
+**Instructor: David Smith**
 
 ---
 
